@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Folder for testing my algs
-testing_skills/
-bugs/
+test/
